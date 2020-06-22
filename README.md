@@ -17,6 +17,7 @@ Beberapa fitur pada aplikasi ini yaitu :
 Syarat kebutuhan aplikasi :
 - [sikap-server](https://github.com/ilham-openbeta/sikap-server)
 - Java Runtime Environment (JRE) 1.8
+
 Cara install :
 1. Aplikasi ini membutuhkan sikap-server untuk berjalan, untuk memasangnya lihat pada repository [sikap-server](https://github.com/ilham-openbeta/sikap-server).
 2. Unduh aplikasi pada halaman [release](https://github.com/ilham-openbeta/sikap-front/releases/download/v1.0/Sistem.Informasi.KP.zip).
@@ -35,6 +36,7 @@ Syarat kebutuhan aplikasi :
 - [sikap-server](https://github.com/ilham-openbeta/sikap-server)
 - Java Development Kit (JDK) 1.8
 - NetBeans IDE 8.2
+
 Cara install :
 1. Download atau Clone repositori ini.
 2. Buka folder project sistem_kp menggunakan aplikasi netbeans.
