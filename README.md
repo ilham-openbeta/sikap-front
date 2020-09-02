@@ -57,4 +57,7 @@ Aplikasi dibuat menggunakan Design Pattern MVC-like, DAO, dan Factory Pattern. L
 - Tidak ada fitur ubah password dan kelola akun.
 
 ## Catatan
-Aplikasi ini digunakan dibuat untuk menyelesaikan tugas mata kuliah kerja bengkel. Aplikasi tidak pernah diimplementasikan. Data pada aplikasi hanyalah data palsu. Logo UGM milik UGM.
+Aplikasi ini dibuat untuk menyelesaikan tugas mata kuliah kerja bengkel. Aplikasi tidak pernah diimplementasikan. Data pada aplikasi hanyalah data palsu. Logo UGM milik UGM.
+
+## Lisensi
+Jika tidak ada tulisan lisensi pada file source code berarti lisensinya MIT (bebas digunakan), tapi lebih baik kalian memberi tahu saya jika mengembangkan aplikasi ini :)
